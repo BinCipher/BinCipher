@@ -1,4 +1,4 @@
-![Banner](https://your-image-link-here.com/banner.jpg)
+![Banner]((https://imgur.com/undefined))
 
 # 🚩 Mohammed Al-Aidaros | Aspiring Red Team Specialist 
 
